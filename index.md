@@ -252,4 +252,10 @@
 - 각종 오브젝트와 함정, NPC와 상호작용이 가능한 이벤트를 만든다
 
 - 결과
-- ![동영상](http://img.youtube.com/vi/EEOJLQhORZ8/0.jpg)(https://www.youtube.com/watch?v=EEOJLQhORZ8&feature=youtu.be)
+<video controls width="640" height="480">
+
+    <source src="files/w01/문제1.mp4" type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+
+</video>
