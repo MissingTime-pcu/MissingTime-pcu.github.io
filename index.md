@@ -256,7 +256,7 @@
 - 결과
 <video controls width="640" height="480">
 
-    <source src="files/img/4주차.mp4" type="video/mp4">
+    <source src="files/img/4week.mp4" type="video/mp4">
 
     Sorry, your browser doesn't support embedded videos.
 
@@ -279,7 +279,7 @@
 - 결과
 <video controls width="640" height="480">
 
-    <source src="files/img/5주차.mp4" type="video/mp4">
+    <source src="files/img/5week.mp4" type="video/mp4">
 
     Sorry, your browser doesn't support embedded videos.
 
