@@ -184,10 +184,9 @@
 
 - 삽화, 모델링, 캐릭터 등 전체적인 디자인 구상 (완료)
 
-<img src="./img/1주차.PNG">
-<img src="./img/1주차2.PNG">
-<img src="./img/1주차3.PNG">
-
+ <img src="./img/1주차.png">
+ <img src="./img/1주차2.png">
+ <img src="./img/1주차3.png">
  
  
 
