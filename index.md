@@ -35,13 +35,13 @@
 
 <br><br>
 # 관련 소스
-<img src="./img/관련 이미지.png">
+<img src="./img/관련이미지.PNG">
 
-## [동영상](https://www.youtube.com/watch?v=QvSF8n5oi2w)
+## [동영상](https://www.youtube.com/watch?v=t5eI7-wIsv0)
 
 <br><br>
 # [대표 이미지]
-<img src="./img/대표 이미지.png">
+<img src="./img/대표이미지.PNG">
 
 
 <br><br>
