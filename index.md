@@ -348,6 +348,22 @@ NPC | 임도 | 플레이어에게 퀘스트를 부여하여 성공할 시 아이
 
 ## 9주차
 
+- 메인 화면 디자인 및 게임 플레이 중 일시 정지 기능 구현
+
+<img src="./img/뒷배경.gif">
+
+<img src="./img/일시정지.gif">
+
+- 배경 음악, UI 효과음 적용
+
+[![게임 플레이 영상](http://img.youtube.com/vi/Icvr3DbEDLg/0.jpg)](https://youtu.be/Icvr3DbEDLg) 
+
+
+
+https://youtu.be/Icvr3DbEDLg
+
+
+
 ## 10주차
 
 ## 11주차
